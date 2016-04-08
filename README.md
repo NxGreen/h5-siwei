@@ -23,3 +23,9 @@ gulp //生成dist文件
 gulp server //开启文件实时监控
 ```
 
+###**参考文章**
+[REM适配参考文章](http://www.jianshu.com/p/eb05c775d3c6)
+[REM适配参考文章1](http://isux.tencent.com/web-app-rem.html)
+[REM适配参考文章2](http://www.w3ctech.com/topic/979)
+
+
